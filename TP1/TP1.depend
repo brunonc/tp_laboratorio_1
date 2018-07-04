@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1530647877 source:c:\users\bruno\pili\tp1\recursos.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"recursos.h"
+
+1530649574 c:\users\bruno\pili\tp1\recursos.h
+
+1530648065 source:c:\users\bruno\pili\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"recursos.h"
+
