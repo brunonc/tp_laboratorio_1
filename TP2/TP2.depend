@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1524257536 source:c:\users\iguglielmone_mecon\desktop\juani\utn\adt\utn-laboratorio1\tps\tp02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1524244525 c:\users\iguglielmone_mecon\desktop\juani\utn\adt\utn-laboratorio1\tps\tp02\funciones.h
+
+1524257730 source:c:\users\iguglielmone_mecon\desktop\juani\utn\adt\utn-laboratorio1\tps\tp02\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1526154938 source:d:\juani\git\tp_laboratorio_1\tp02\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1526154938 d:\juani\git\tp_laboratorio_1\tp02\funciones.h
+
+1526154938 source:d:\juani\git\tp_laboratorio_1\tp02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1526053781 source:c:\users\iguglielmone_mecon\desktop\juani\git\tp_laboratorio_1\tp02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1526053027 c:\users\iguglielmone_mecon\desktop\juani\git\tp_laboratorio_1\tp02\funciones.h
+
+1526053899 source:c:\users\iguglielmone_mecon\desktop\juani\git\tp_laboratorio_1\tp02\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1531218159 source:c:\users\ieuser\documents\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1531215951 c:\users\ieuser\documents\tp2\funciones.h
+
+1531219816 source:c:\users\ieuser\documents\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
