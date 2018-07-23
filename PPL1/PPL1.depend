@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1526934109 source:c:\users\bruno\tsp\ppl1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"propietarios.h"
+	"ingresos.h"
+	"egresos.h"
+
+1526934255 c:\users\bruno\tsp\ppl1\propietarios.h
+
+1526933013 c:\users\bruno\tsp\ppl1\ingresos.h
+
+1526931970 source:c:\users\bruno\tsp\ppl1\propietarios.c
+	<string.h>
+	"propietarios.h"
+
+1526932432 source:c:\users\bruno\tsp\ppl1\ingresos.c
+	"ingresos.h"
+
+1526933656 source:c:\users\bruno\tsp\ppl1\egresos.c
+	"egresos.h"
+
+1526932873 c:\users\bruno\tsp\ppl1\egresos.h
+
+1526933907 source:c:\users\bruno\tsp\ppl1\recursos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1532339098 source:c:\users\ieuser\documents\ppl1\egresos.c
+	<time.h>
+	"egresos.h"
+	"ingresos.h"
+	"propietarios.h"
+
+1532337352 c:\users\ieuser\documents\ppl1\egresos.h
+
+1532337778 source:c:\users\ieuser\documents\ppl1\ingresos.c
+	"ingresos.h"
+	"propietarios.h"
+
+1532266636 c:\users\ieuser\documents\ppl1\ingresos.h
+
+1532338841 source:c:\users\ieuser\documents\ppl1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"propietarios.h"
+	"ingresos.h"
+	"egresos.h"
+
+1532274471 c:\users\ieuser\documents\ppl1\propietarios.h
+	"ingresos.h"
+	"egresos.h"
+
+1532274722 source:c:\users\ieuser\documents\ppl1\propietarios.c
+	<string.h>
+	"propietarios.h"
+	"ingresos.h"
+	"egresos.h"
+
+1532112505 source:c:\users\ieuser\documents\ppl1\recursos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
